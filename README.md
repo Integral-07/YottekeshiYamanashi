@@ -1,4 +1,4 @@
-# YottekeshiYamanashi
+# よってけし！やまなし！
 
 ![](https://img.shields.io/badge/YAMANASHI_AIハッカソン-2023_技術賞-silver)
 
